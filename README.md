@@ -10,11 +10,9 @@ I'm Christopher Tran (Chris for short), a Software Developer based in Orange Cou
 
 ### 🌱 I’m currently learning/studying ...
 - <div >
-	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 </div>
-- <div >
-	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
-</div> 
+
 
 ---
 
