@@ -9,12 +9,12 @@ I'm Christopher Tran (Chris for short), a Software Developer based in Orange Cou
 - Converting [DishDiscover](https://github.com/tran-christopher/DishDiscover) to Typescript and React
 
 ### 🌱 I’m currently learning/studying ...
-- Java <div >
-	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-</div>
-- AWS <div >
+- <div >
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 </div>
+- <div >
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+</div> 
 
 ---
 
